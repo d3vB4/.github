@@ -1,7 +1,7 @@
 # 🚀 d3vB4 - Desenvolvendo o Futuro da Tecnologia
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Bem-vindos+ao+d3vB4!;Estudantes+de+Dev+Systems;SENAI+Dendezeiros" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Bem-vindos+ao+d3vB4!;Estudantes;SENAI+Dendezeiros" alt="Typing SVG" />
 </div>
 
 ---
@@ -61,18 +61,6 @@ Nossa jornada começou com uma paixão compartilhada: **transformar ideias em c�
 - **Curtir** cada linha de código escrita
 - **Celebrar** cada bug resolvido
 - **Transformar** desafios em conquistas!
-
----
-
-## 📊 **Estatísticas do Grupo**
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vB4&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vB4&layout=compact&theme=radical)
-
-</div>
 
 ---
 
