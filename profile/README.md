@@ -4,7 +4,7 @@
 
 ## 🎯 **Quem Somos**
 
-Somos o **d3vB4**, um grupo dinâmico de estudantes do primeiro semestre de **Desenvolvimento de Sistemas** no **SENAI Dendezeiros**, localizado no coração de Salvador, Bahia! 🏝️
+Somos o **d3vB4**, um grupo dinâmico de estudantes do primeiro semestre de **Desenvolvimento de Sistemas** no **SENAI Dendezeiros**, localizado no coração de Salvador! 🏝️
 
 Nossa jornada começou com uma paixão compartilhada: **transformar ideias em código** e criar soluções que fazem a diferença. Este GitHub é nosso laboratório digital, onde experimentamos, aprendemos e evoluímos juntos!
 
