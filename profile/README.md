@@ -1,9 +1,5 @@
 # 🚀 d3vB4 - Desenvolvendo o Futuro da Tecnologia
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Bem-vindos+ao+d3vB4!;Estudantes;SENAI+Dendezeiros" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 🎯 **Quem Somos**
